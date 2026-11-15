@@ -21,8 +21,6 @@ Werewolf is a social-deduction game with **asymmetric information**: players spe
 
 ## What I contributed
 
-The game engine is **not my original creation**. This work builds on [Mai0313/LLMWereWolf](https://github.com/Mai0313/LLMWereWolf) (baseline commit [`76b23b49`](https://github.com/Mai0313/LLMWereWolf/commit/76b23b49fd2055e8e1e31b1a38fa1514ed16705f)). My research and implementation contributions include:
-
 | Area | My work |
 |---|---|
 | **Simulation & data** | Eight-agent offline experiments; role-filtered observations and replay/audit checks; supervised pre-vote data extraction with restricted public features |
