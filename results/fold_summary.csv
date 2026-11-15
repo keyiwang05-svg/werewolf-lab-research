@@ -1,0 +1,7 @@
+method,condition,auc_median_across_folds,auc_min_across_folds,auc_max_across_folds,note
+tfidf,raw,0.42041943039344976,0.4142500049205817,0.48497647961895013,"Six correlated old-training folds, evaluated on same 100 external games; NOT independent replications"
+tfidf,masked,0.44964276576062356,0.4141929261715904,0.5713267856791387,"Six correlated old-training folds, evaluated on same 100 external games; NOT independent replications"
+minilm,raw,0.4294782215049108,0.4149349499084772,0.464150609168028,"Six correlated old-training folds, evaluated on same 100 external games; NOT independent replications"
+minilm,masked,0.4783819158777334,0.4200700690849686,0.5240793591434252,"Six correlated old-training folds, evaluated on same 100 external games; NOT independent replications"
+rbt3,raw,0.45161296671718465,0.41623693585529553,0.47666364870982336,"Six correlated old-training folds, evaluated on same 100 external games; NOT independent replications"
+rbt3,masked,0.4330515480150373,0.4173627649733304,0.4719654771980239,"Six correlated old-training folds, evaluated on same 100 external games; NOT independent replications"
